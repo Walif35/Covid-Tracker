@@ -63,8 +63,7 @@ Libraries required as dependencies
 4. Go to: http://localhost:7000
 
 # Authors
-* Dr. Timothy Wiley, School of Computing Technologies, STEM College, RMIT University.
-* Prof. Santha Sumanasekara, School of Computing Technologies, STEM College, RMIT University.
+* Sayed Walif Ali, student at STEM College, RMIT University
+* Radiyah Islam, student at STEM College, RMIT University
 
-Copyright RMIT University (c) 2021
 
